@@ -1,2 +1,0 @@
-# WeatherApp-main
-# apphimanshu
